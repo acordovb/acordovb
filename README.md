@@ -7,7 +7,7 @@
 [![Gmail: alexcordova111](https://img.shields.io/badge/-alexcordova111-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:)](mailto:alexcordova111@gmail.com)
 
 - 🔭 I'm currently working on **Chatbot for Municipality of Quito. 💙❤️💙**
-- 🌱 I'm currently learning **AWS, NestJS, Redis, Angular.** <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXQxbGdxdDBieWcwYmV0Yjh0Z2hnMml1a3pkNDA2ZTZueWJ1Ym5ieiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/j0HjChGV0J44KrrlGv/giphy.webp" width="30">
+- 🌱 I'm currently learning **AWS, NestJS, Redis, Angular.**
 - 👯 I'm looking to collaborate on **Remote Projects** and **Startups**.
 - 📫 How to reach me: **[alexcordova111@gmail.com](mailto:alexcordova111@gmail.com)**
 
@@ -17,7 +17,7 @@
 
 \* **_My contributions on GitHub might seem low because I primarily work in private GitLab repositories for the organizations I am employed with._**
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools: <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXQxbGdxdDBieWcwYmV0Yjh0Z2hnMml1a3pkNDA2ZTZueWJ1Ym5ieiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/j0HjChGV0J44KrrlGv/giphy.webp" width="30"></h3>
 
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&color=3178C6)
