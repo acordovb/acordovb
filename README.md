@@ -4,7 +4,7 @@
 [![Twitter: acordov_](https://img.shields.io/twitter/follow/acordov_?style=social)](https://x.com/acordov_)
 [![Linkedin: alealcor](https://img.shields.io/badge/-alealcor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alealcor/)](https://www.linkedin.com/in/alealcor/)
 [![GitHub acordovb](https://img.shields.io/github/followers/acordovb?label=follow&style=social)](https://github.com/acordovb)
-[![Gmail: alexcordova111](https://img.shields.io/badge/-alexcordova111-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:)](mailto:alexcordova111@gmail.com)
+[![Gmail: alexcordova111](https://img.shields.io/badge/-alexcordova111@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:)](mailto:alexcordova111@gmail.com)
 
 - 🔭 I'm currently working on **Chatbot for Municipality of Quito. 💙❤️💙**
 - 🌱 I'm currently learning **AWS, NestJS, Redis, Angular.**
