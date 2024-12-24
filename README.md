@@ -7,11 +7,8 @@
 [![Gmail: alexcordova111](https://img.shields.io/badge/-alexcordova111-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:)](mailto:alexcordova111@gmail.com)
 
 - 🔭 I'm currently working on **Chatbot for Municipality of Quito. 💙❤️💙**
-
 - 🌱 I'm currently learning **AWS, NestJS, Redis, Angular.** <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXQxbGdxdDBieWcwYmV0Yjh0Z2hnMml1a3pkNDA2ZTZueWJ1Ym5ieiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/j0HjChGV0J44KrrlGv/giphy.webp" width="30">
-
 - 👯 I'm looking to collaborate on **Remote Projects** and **Startups**.
-
 - 📫 How to reach me: **[alexcordova111@gmail.com](mailto:alexcordova111@gmail.com)**
 
 <div align="center">
