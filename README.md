@@ -9,7 +9,6 @@
 - 🔭 I'm currently working on **Chatbot for Municipality of Quito. 💙❤️💙**
 - 🌱 I'm currently learning **AWS, NestJS, Redis, Angular.**
 - 👯 I'm looking to collaborate on **Remote Projects** and **Startups**.
-- 📫 How to reach me: **[alexcordova111@gmail.com](mailto:alexcordova111@gmail.com)**
 
 <div align="center">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=acordovb&show_icons=true&locale=en&theme=dark#gh-dark-mode-only" alt="acordovb" /></p>
