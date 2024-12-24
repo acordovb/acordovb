@@ -12,7 +12,7 @@
 - 📫 How to reach me: **[alexcordova111@gmail.com](mailto:alexcordova111@gmail.com)**
 
 <div align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=acordovb&show_icons=true&locale=en" alt="acordovb" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=acordovb&show_icons=true&locale=en&theme=dark#gh-dark-mode-only" alt="acordovb" /></p>
 </div>
 
 \* **_My contributions on GitHub might seem low because I primarily work in private GitLab repositories for the organizations I am employed with._**
@@ -68,7 +68,7 @@
 ![Firebase](https://img.shields.io/badge/Database-Firebase-informational?style=flat&logo=firebase&color=FFCA28)
 
 <div align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=acordovb&show_icons=true&locale=en&layout=compact" alt="acordovb" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=acordovb&show_icons=true&locale=en&layout=compact&theme=dark#gh-dark-mode-only" alt="acordovb" /></p>
 </div>
 
 <h3 align="left">Working on Startups! 🚀</h3>
