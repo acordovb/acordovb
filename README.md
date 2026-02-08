@@ -1,83 +1,162 @@
-<h1 align="center">Hi 👋, I'm Alex Córdova</h1>
-<h3 align="center">Full-Stack Developer | Specializing in Python & TypeScript for scalable and efficient solutions.</h3>
-
-[![Twitter: acordov_](https://img.shields.io/twitter/follow/acordov_?style=social)](https://x.com/acordov_)
-[![Linkedin: alealcor](https://img.shields.io/badge/-alealcor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alealcor/)](https://www.linkedin.com/in/alealcor/)
-[![GitHub acordovb](https://img.shields.io/github/followers/acordovb?label=follow&style=social)](https://github.com/acordovb)
-[![Gmail: alexcordova111](https://img.shields.io/badge/-alexcordova111@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:)](mailto:alexcordova111@gmail.com)
-
-- 🔭 I'm currently working on **Chatbot for Municipality of Quito. 💙❤️💙**
-- 🌱 I'm currently learning **AWS, NestJS, Redis, Angular.**
-- 👯 I'm looking to collaborate on **Remote Projects** and **Startups**.
-
 <div align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=acordovb&show_icons=true&locale=en&theme=dark#gh-dark-mode-only" alt="acordovb" /></p>
+
+# I'm Alex Córdova
+
+**Tech Lead at an AWS Enterprise Partner | Building Cloud Solutions**
+
+[![LinkedIn](https://img.shields.io/badge/-alealcor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alealcor/)
+[![Gmail](https://img.shields.io/badge/-alexcordova111@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexcordova111@gmail.com)
+[![Twitter](https://img.shields.io/badge/-@acordov__-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/acordov_)
+[![GitHub](https://img.shields.io/github/followers/acordovb?style=for-the-badge&logo=github&color=181717)](https://github.com/acordovb)
+
 </div>
 
-\* **_My contributions on GitHub might seem low because I primarily work in private GitLab repositories for the organizations I am employed with._**
+---
 
-<h3 align="left">Languages and Tools: <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXQxbGdxdDBieWcwYmV0Yjh0Z2hnMml1a3pkNDA2ZTZueWJ1Ym5ieiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/j0HjChGV0J44KrrlGv/giphy.webp" width="30"></h3>
+## About Me
 
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
-![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&color=3178C6)
-![Next.js](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=next.js&color=000000)
-![React](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
-![Node.js](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&color=339933)
-![Express](https://img.shields.io/badge/Framework-Express-informational?style=flat&logo=express&color=000000)
-![NestJS](https://img.shields.io/badge/Framework-NestJS-informational?style=flat&logo=nestjs&color=E0234E)
-![Angular](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angular&color=DD0031)
-![Vue.js](https://img.shields.io/badge/Framework-Vue.js-informational?style=flat&logo=vue.js&color=4FC08D)
-![Sass](https://img.shields.io/badge/Style-Sass-information?style=flat&logo=sass&color=CC6699)
-![Bootstrap](https://img.shields.io/badge/Style-Bootstrap-information?style=flat&logo=bootstrap&color=7952B3)
-![HTML5](https://img.shields.io/badge/Markup-HTML5-information?style=flat&logo=html5&color=E34F26)
-![CSS3](https://img.shields.io/badge/Style-CSS3-information?style=flat&logo=css3&color=1572B6)
-![Tailwind CSS](https://img.shields.io/badge/Style-TailwindCSS-information?style=flat&logo=tailwind-css&color=38B2AC)
+```yaml
+name: Alex Córdova
+location: Ecuador 🇪🇨
+role: Tech Lead @ AWS Enterprise Partner
+passion: Building products for startups across different industries
+```
 
-![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
-![Django](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&color=092E20)
-![Flask](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&color=000000)
-![FastAPI](https://img.shields.io/badge/Framework-FastAPI-informational?style=flat&logo=fastapi&color=009688)
+- **Tech Lead** at an **AWS Enterprise Partner**, designing and deploying scalable cloud-native solutions.
+- Passionate about building projects for **startups in diverse areas** — from fintech to travel, logistics and beyond.
+- Creator of [**awspm-cli**](https://github.com/acordovb/awspm-cli), an open-source CLI published on npm to manage AWS profiles with ease.
+- Offering **consulting services** in **Software Development** and **Data Engineering** from Ecuador.
+- Reach me at **<alexcordova111@gmail.com>**
 
-![Dart](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&color=0175C2)
-![Flutter](https://img.shields.io/badge/Framework-Flutter-informational?style=flat&logo=flutter&color=02569B)
+---
 
-![MongoDB](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&color=47A248)
-![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&color=336791)
-![SQL Server](https://img.shields.io/badge/Database-SQLServer-informational?style=flat&logo=microsoft-sql-server&color=CC2927)
-![MySQL](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&color=4479A1)
-![SQLite](https://img.shields.io/badge/Database-SQLite-informational?style=flat&logo=sqlite&color=003B57)
-![MariaDB](https://img.shields.io/badge/Database-MariaDB-informational?style=flat&logo=mariadb&color=003545)
-![Redis](https://img.shields.io/badge/Database-Redis-informational?style=flat&logo=redis&color=DC382D)
-![RabbitMQ](https://img.shields.io/badge/Queue-RabbitMQ-informational?style=flat&logo=rabbitmq&color=FF6600)
+## Featured Project
 
-![Docker](https://img.shields.io/badge/Container-Docker-informational?style=flat&logo=docker&color=2496ED)
-![Kubernetes](https://img.shields.io/badge/Container-Kubernetes-informational?style=flat&logo=kubernetes&color=326CE5)
-![Nginx](https://img.shields.io/badge/Server-Nginx-informational?style=flat&logo=nginx&color=009639)
-![Vercel](https://img.shields.io/badge/Deployment-Vercel-informational?style=flat&logo=vercel&color=000000)
-![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&color=232F3E)
-![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624)
-![Bash](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&color=4EAA25)
-![Git](https://img.shields.io/badge/VersionControl-Git-informational?style=flat&logo=git&color=F05032)
-![GitHub](https://img.shields.io/badge/VersionControl-GitHub-informational?style=flat&logo=github&color=181717)
-![GitLab](https://img.shields.io/badge/VersionControl-GitLab-informational?style=flat&logo=gitlab&color=FCA121)
-![Postman](https://img.shields.io/badge/Tool-Postman-information?style=flat&logo=postman&color=FF6C37)
-![Figma](https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=figma&color=F24E1E)
-![Grafana](https://img.shields.io/badge/Monitoring-Grafana-informational?style=flat&logo=grafana&color=F46800)
-![Heroku](https://img.shields.io/badge/Deployment-Heroku-informational?style=flat&logo=heroku&color=430098)
-![Firebase](https://img.shields.io/badge/Database-Firebase-informational?style=flat&logo=firebase&color=FFCA28)
+[![awspm-cli](https://img.shields.io/npm/v/awspm-cli?style=for-the-badge&logo=npm&color=CB3837&label=awspm-cli)](https://www.npmjs.com/package/awspm-cli)
+
+[**awspm-cli**](https://github.com/acordovb/awspm-cli) — CLI published on npm to manage AWS profiles with a beautiful interactive terminal interface.
+
+---
+
+## AWS Certifications
+
+<!-- Add your AWS certification badges below. Replace the src with the URL of your Credly badge image. -->
+<!-- Example: -->
+<!-- <img src="https://images.credly.com/size/150x150/images/YOUR_BADGE_ID.png" alt="AWS Certified Cloud Practitioner" width="150" height="150" /> -->
 
 <div align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=acordovb&show_icons=true&locale=en&layout=compact&theme=dark#gh-dark-mode-only" alt="acordovb" /></p>
+
+| Certification | Badge |
+|:---:|:---:|
+| **AWS Certified Cloud Practitioner** | <img src="./assets/aws-certified-cloud-practitioner.png" alt="AWS Badge" width="120" height="120" /> |
+
+> *Badges coming soon — currently preparing for certification exams.*
+
 </div>
 
-<h3 align="left">Working on Startups! 🚀</h3>
+---
 
-<a aria-label="stam-labs" itemprop="follows" class="avatar-group-item" data-hovercard-type="organization" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:33164007,&quot;target&quot;:&quot;MEMBER_ORGANIZATION_AVATAR&quot;,&quot;user_id&quot;:33164007,&quot;originating_url&quot;:&quot;https://github.com/acordovb&quot;}}" data-hydro-click-hmac="bf7e2b33fda10468762dbbcb07509f951914ba7b47eae97427b4ff206519daa5" href="/stam-labs">
-      <img src="https://avatars.githubusercontent.com/u/79854957?s=64&amp;v=4" alt="@stam-labs" size="32" height="32" width="32" data-view-component="true" class="avatar">
-</a>
-<a aria-label="untrip" itemprop="follows" class="avatar-group-item" data-hovercard-type="organization"  data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:33164007,&quot;target&quot;:&quot;MEMBER_ORGANIZATION_AVATAR&quot;,&quot;user_id&quot;:33164007,&quot;originating_url&quot;:&quot;https://github.com/acordovb&quot;}}" data-hydro-click-hmac="bf7e2b33fda10468762dbbcb07509f951914ba7b47eae97427b4ff206519daa5" href="/untrip">
-      <img src="https://avatars.githubusercontent.com/u/109124585?s=64&amp;v=4" alt="@untrip" size="32" height="32" width="32" data-view-component="true" class="avatar">
-</a>
-<a aria-label="Alumtu" itemprop="follows" class="avatar-group-item" data-hovercard-type="organization"  data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:33164007,&quot;target&quot;:&quot;MEMBER_ORGANIZATION_AVATAR&quot;,&quot;user_id&quot;:33164007,&quot;originating_url&quot;:&quot;https://github.com/acordovb&quot;}}" data-hydro-click-hmac="bf7e2b33fda10468762dbbcb07509f951914ba7b47eae97427b4ff206519daa5" href="/Alumtu">
-      <img src="https://avatars.githubusercontent.com/u/153480820?s=64&amp;v=4" alt="@Alumtu" size="32" height="32" width="32" data-view-component="true" class="avatar">
-</a>
+## Consulting Services
+
+<div align="center">
+
+| Area | Description |
+|:---:|:---|
+|  **Software Development** | Full-stack web & mobile applications, APIs, microservices, cloud architecture |
+|  **Data Engineering** | Data pipelines, ETL processes, analytics infrastructure, data modeling |
+
+📍 Based in **Ecuador** 🇪🇨 — Available for remote engagements worldwide.
+
+ **Contact:** [alexcordova111@gmail.com](mailto:alexcordova111@gmail.com)
+
+</div>
+
+---
+
+## Tech Stack
+
+<details>
+<summary><b>Languages & Frameworks</b></summary>
+<br/>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>Databases & Messaging</b></summary>
+<br/>
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>Cloud, DevOps & Tools</b></summary>
+<br/>
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</details>
+
+---
+
+## Startups I've Worked With
+
+<p align="center">
+  <a href="https://github.com/stam-labs">
+    <img src="https://avatars.githubusercontent.com/u/79854957?s=64&v=4" alt="@stam-labs" width="48" height="48" style="border-radius:50%" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/untrip">
+    <img src="https://avatars.githubusercontent.com/u/109124585?s=64&v=4" alt="@untrip" width="48" height="48" style="border-radius:50%" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Alumtu">
+    <img src="https://avatars.githubusercontent.com/u/153480820?s=64&v=4" alt="@Alumtu" width="48" height="48" style="border-radius:50%" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+**📧 Open for consulting & collaboration — [alexcordova111@gmail.com](mailto:alexcordova111@gmail.com)**
+
+</div>
